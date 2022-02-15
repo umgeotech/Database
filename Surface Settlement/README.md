@@ -6,6 +6,6 @@ This database contains various data sets used in published articles for predicti
 |    1      | EPB Shield      | Bangkok, Thailand          |        49       |       10    |https://doi.org/10.1016/j.tust.2005.06.007        |
 |    2      | EPB Shield      | Singapore                  |        148      |       8     |https://doi.org/10.1007/s10064-016-0937-8         |
 |    3      | EPB Shield      | Changsha, China            |        294      |       12    |https://doi.org/10.1016/j.tust.2020.103383        |
-|    4      | EPB Shield      | Hangzhou 6, China          |        135      |       9     |https://doi.org/10.1016/j.undsp.2021.05.002       |
+|    4      | EPB Shield      | Hangzhou 6, China          |        264      |       14    |https://doi.org/10.1016/j.undsp.2021.05.002       |
 
 Please get in touch with us via umgeomech@gmail.com for any inquiries related to this database. Thank you!     
