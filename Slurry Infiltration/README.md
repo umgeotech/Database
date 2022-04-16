@@ -5,5 +5,5 @@ References:
 - Z. Lu, WH Zhou, ZY Yin. (2022). Effect of viscosity on the slurry infiltration in granular media[J], International Journal of Geomechanics, (GMENG-6977R1).
 
 
-Please get in touch with us via umgeomech@gmail.com for any inquiries related to this algorithm. Thank you!
+Please get in touch with us via umgeomech@gmail.com for any inquiries related to this database. Thank you!
 
