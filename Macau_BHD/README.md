@@ -8,7 +8,7 @@ The Macau_BHD library contains tools for implementing StratifiedRAG for Large la
 1. StratifiedRAG file contains Python code for implementing Stratified Retrieval-augmented Generation.
 2. LLM-pred file contains Python code for LLM prediction.
 3. testbase file contains testing data.
-3. traintbase file contains knowledge base developed from engineering geologists (will be avaiable after paper acception).
+4. traintbase file contains knowledge base developed from engineering geologists (will be avaiable after paper acception).
 
 Please get in touch with us via umgeomech@gmail.com for any inquiries related to this algorithm. Thank you!
 
