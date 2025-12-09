@@ -1,0 +1,714 @@
+﻿Description,Layer,Depth
+"0 meter, loose, gray to yellowish fine sand",FIL,0
+"2.9 meter, very soft, dark gray clay, occasionally with organic materials",MD,2.9
+"8.8 meter, loose, gray coarse sand with shells and very soft clay",ALL,8.8
+"12.8 meter, stiff to very stiff, grayish yellow residual soil",ALL,12.8
+"14.6 meter, weak, grayish yellow pinkish red and grayish white, completely decomposed granite",CDG,14.6
+"17.73 meter, strong to very strong, grayish yellow pinkish red and grayish white, moderately decomposed granite",GRA,17.73
+"0 meter, loose, gray fine sand, with shell fragments",FIL,0
+"1.9 meter, very soft, dark gray clay, occasionally with organic materials and shell fragments",MD,1.9
+"7.5 meter, loose, gray to yellowish gray coarse clayey sand occasionally with gravels",ALL,7.5
+"10.5 meter, firm, gray to yellowish gray clay occasionally with sand",ALL,10.5
+"12 meter, firm to stiff, gray clay occasionally with coarse sand",ALL,12
+"17.5 meter, firm, gray clay occasionally with fine sand and organic materials",ALL,17.5
+"19.5 meter, stiff, gray sandy clay",ALL,19.5
+"22 meter, medium dense, gray to yellowish gray coarse clayey sand",ALL,22
+"23.8 meter, stiff, yellowish gray clay with fine sand and coarse sand",ALL,23.8
+"26 meter, dense, gray to yellowish gray coarse sand occasionally with gravels",ALL,26
+"27 meter, weak, grayish yellow pinkish red and grayish white, completely decomposed granite",CDG,27
+"29.5 meter, weak, grayish yellow pinkish red and grayish white, highly decomposed granite",HDG,29.5
+"0 meter, medium dense, gray to yellowish gray coarse clayey sand, with construction waste",FIL,0
+"2.3 meter, very soft, dark gray clay, occasionally with organic materials and shell fragments",MD,2.3
+"6.5 meter, loose, gray to yellowish gray coarse clayey sand",ALL,6.5
+"8.5 meter, firm, gray to yellowish gray clay occasionally with sand",ALL,8.5
+"10.5 meter, loose, gray to yellowish gray coarse sand",ALL,10.5
+"12 meter, dense, gray to yellowish gray coarse sand",ALL,12
+"14.5 meter, firm, gray to yellowish gray sandy clay",ALL,14.5
+"17.5 meter, medium strong, grayish yellow pinkish red and grayish white, moderately decomposed granite",GRA,17.5
+"19 meter, loose, gray to yellowish gray coarse clayey sand",ALL,19
+"20.1 meter, medium strong, grayish yellow pinkish red and grayish white, moderately decomposed granite",GRA,20.1
+"23.32 meter, firm to stiff, reddish yellow residual soil",CDG,23.32
+"24.9 meter, medium strong, grayish yellow pinkish red and grayish white, moderately decomposed granite",GRA,24.9
+"27.75 meter, firm to stiff, grayish yellow residual soil",CDG,27.75
+"31 meter, extremely weak, grayish yellow pinkish red and grayish white, completely decomposed granite",CDG,31
+"34.8 meter, medium strong, grayish yellow pinkish red and grayish white, moderately decomposed granite",GRA,34.8
+"0 meter, loose, gray to yellowish gray, coarse clayey sand, with construction waste",FIL,0
+"1.8 meter, very soft, dark gray, clay, occasionally with organic materials and shell fragments",MD,1.8
+"5.9 meter, firm, gray to yellowish gray, clay, occasionally with sand",ALL,5.9
+"7 meter, loose to medium dense, gray to yellowish gray, coarse sand",ALL,7
+"11 meter, soft, dark gray clay, occasionally with organic materials and shell fragments",ALL,11
+"13.5 meter, stiff to very stiff, grayish yellow, residual soil",CDG,13.5
+"28 meter, extremely weak, grayish yellow pinkish red and grayish white, highly decomposed granite",HDG,28
+"0 meter, cobbles with concrete and construction waste",FIL,0
+"5.8 meter, loose, gray to yellowish gray fine sand",FIL,5.8
+"14 meter, very soft, dark gray clay, occasionally with organic materials and shell fragments",MD,14
+"17.2 meter, firm, gray to yellowish gray sandy clay",ALL,17.2
+"19 meter, extremely weak, grayish yellow pinkish red and grayish white, completely decomposed granite",CDG,19
+"19.5 meter, moderately strong to strong, grayish yellow pinkish red, moderately decomposed medium to coarse grained granite",GRA,19.5
+"20.32 meter, extremely weak, grayish yellow pinkish red and grayish white, completely decomposed granite",CDG,20.32
+"20.79 meter, moderately strong to strong, grayish yellow, yellowish pink, moderately decomposed medium to coarse grained granite",GRA,20.79
+"0 meter, cobbles with concrete and construction waste",FIL,0
+"9.5 meter, loose, gray to yellowish gray fine sand",FIL,9.5
+"13.2 meter, very soft, dark gray clay, occasionally with organic materials and shell fragments",MD,13.2
+"14.5 meter, loose, gray to yellowish gray coarse sand with shell fragments",ALL,14.5
+"16.5 meter, moderately strong to strong, grayish yellow, yellowish pink, moderately decomposed medium to coarse grained granite",GRA,16.5
+"17.86 meter, extremely weak, grayish yellow pinkish red and grayish white, highly decomposed granite",HDG,17.86
+"21.63 meter, moderately strong to strong, grayish yellow, yellowish pink, moderately decomposed medium to coarse grained granite",GRA,21.63
+"21.9 meter, extremely weak, grayish yellow pinkish red and grayish white, highly decomposed granite",HDG,21.9
+"22.3 meter, moderately strong to strong, grayish yellow, yellowish pink, moderately decomposed medium to coarse grained granite",GRA,22.3
+"0 meter, grayish yellow and brownish red, very silty gravelsly sand with occasional rootlets",FIL,0
+"0.8 meter, grayish white and brownish yellow, cobbles and boulders, subangular, with some medium to coarse sand",FIL,0.8
+"7.8 meter, very soft, gray, silty clay, with occasional rootlets and shell fragments",MD,7.8
+"9.7 meter, very soft, gray, very sandy clay, with occasional rootlets and shell fragments",MD,9.7
+"11 meter, firm, grayish yellow, grayish white, brownish red, sandy silty clay",ALL,11
+"11.8 meter, medium dense, grayish white and grayish yellow, silty coarse sand",ALL,11.8
+"14.5 meter, firm, gray, silty clay, with occasional rootlets",ALL,14.5
+"15.6 meter, medium dense, grayish white, silty clayey fine sand",ALL,15.6
+"17.8 meter, medium dense, grayish yellow and grayish white, silty coarse sand with occasional gravels",ALL,17.8
+"22 meter, extremely weak, reddish brown, brownish yellow and grayish white, completely decomposed coarse grained granite",CDG,22
+"31 meter, extremely weak, brownish yellow and grayish white, completely decomposed coarse grained granite",CDG,31
+"37.3 meter, moderately strong to strong, brownish white, grayish brown spotted pinkish red, slightly to moderately decomposed coarse grained granite",GRA,37.3
+"37.6 meter, extremely weak, brownish yellow and grayish white, completely decomposed coarse grained granite",CDG,37.6
+"46.5 meter, moderately strong to strong, brownish white, grayish brown spotted pinkish red, slightly to moderately decomposed coarse grained granite",GRA,46.5
+"0 meter, medium dense, brownish gray, grayish yellow and brownish red, gravelsly coarse sand, with occasional cobbles",FIL,0
+"6 meter, loose to medium dense, yellowish gray, fine sand, with some shell fragments",MD,6
+"12.1 meter, very soft, gray, sandy silty clay, with occasional shell fragments and rootlets",MD,12.1
+"14 meter, loose, yellowish gray and brownish gray, very gravelsly coarse sand, with occasional shell fragments",MD,14
+"16.2 meter, firm, brownish red spottled light grayish white, sandy clay, sand is coarse",ALL,16.2
+"17 meter, dense, grayish yellow and light grayish white, silty gravelsly coarse sand, locally with sandy clay",ALL,17
+"24.3 meter, firm, gray, sandy silty clay, locally with thin laminated of coarse sand",ALL,24.3
+"26.5 meter, dense, brownish yellow, gravelsly coarse sand, with occasional clay",ALL,26.5
+"29.5 meter, extremely weak, brownish yellow and grayish white, completely decomposed coarse grained granite",CDG,29.5
+"32 meter, extremely weak, brownish yellow spottled grayish white, grayish black, completely decomposed coarse grained granite",CDG,32
+"47 meter, strong, brownish white, grayish brown mottled pinkish red, slightly decomposed coarse grained granite",GRA,47
+"0 meter, loose to medium dense, grayish yellow and gray, medium to coarse sand with occasional gravels and soft clay",FIL,0
+"9.8 meter, very soft to soft, gray, silty clay with occasional rootlets and shell fragments",MD,9.8
+"17.5 meter, firm, grayish yellow to light grayish white, silty clay with occasional coarse sand",ALL,17.5
+"21.5 meter, soft, gray, sandy silty clay with occasional rootlets",ALL,21.5
+"25 meter, firm to stiff, grayish yellow and brownish yellow, very sandy silty clay, sand is medium to coarse",ALL,25
+"27.5 meter, medium dense, grayish yellow and grayish white, silty coarse sand, with occasional gravels",ALL,27.5
+"29.5 meter, extremely weak, reddish brown, brownish yellow and grayish white, completely decomposed coarse grained granite",CDG,29.5
+"50 meter, strong, brownish white, grayish brown spotted pinkish red, slightly decomposed coarse grained granite",GRA,50
+"0 meter, stiff, grayish yellow, brownish gray, sandy silty, with occasional rootlets",FIL,0
+"0.8 meter, grayish white, brownish yellow, subangular, cobbles and boulders, with some medium to coarse sand",FIL,0.8
+"3.4 meter, medium dense, yellowish gray and gray, fine sand, with occasional shell fragments",FIL,3.4
+"9.5 meter, very soft, gray, sandy silty clay with occasional rootlets and some shell fragments",MD,9.5
+"15 meter, stiff, yellowish gray and light gray, sandy silty clay",ALL,15
+"18 meter, soft, gray, sandy silty clay with occasional rootlets and some shell fragments",ALL,18
+"21.7 meter, soft, gray, sandy silty clay",ALL,21.7
+"23.5 meter, medium dense, grayish white and brownish yellow, silty clayey coarse sand with occasional gravels",ALL,23.5
+"27.3 meter, medium dense, grayish yellow and brownish yellow, silty coarse sand",ALL,27.3
+"29 meter, extremely weak, brownish yellow and grayish white, completely decomposed coarse grained granite",CDG,29
+"50.15 meter, moderately strong to strong, brownish white, grayish yellow spottled pinkish red, moderately to slightly decomposed, coarse grained granite",GRA,50.15
+"0 meter, loose, grayish yellow and brownish yellow, very silty gravelsly sand with occasional rootlets",FIL,0
+"4.5 meter, medium dense, brownish yellow, fine sand, with occasional shell fragments",FIL,4.5
+"7.9 meter, very soft, gray, silty clay, with occasional rootlets and shell fragments",MD,7.9
+"15 meter, loose to medium dense, grayish yellow and gray, silty medium sand, locally coarse sand",ALL,15
+"17.8 meter, extremely weak, brownish white, grayish yellow spottled with pinkish red, completely decomposed, coarse grained granite",CDG,17.8
+"21.1 meter, strong, pinkish gray and grayish, spotted black and white, slightly decomposed, coarse grained granite",GRA,21.1
+"0 meter, grayish yellow, fine to coarse sand with occasional gravels",FIL,0
+"2 meter, firm, grayish yellow, sandy silty",FIL,2
+"2.5 meter, medium dense, grayish yellow, fine to coarse sand with occasional gravels",FIL,2.5
+"4 meter, loose, gray, fine sand with occasional gravels and shell fragments",FIL,4
+"9.2 meter, very soft to soft, gray, silty clay with occasional shell fragments",MD,9.2
+"16 meter, stiff, orangish brown mottled grayish yellow and light grayish white, silty clay",ALL,16
+"21 meter, soft, gray, sandy silty clay",ALL,21
+"24.97 meter, loose, grayish yellow, very silty fine to coarse sand",ALL,24.97
+"26.97 meter, firm, dark gray, sandy silty clay",ALL,26.97
+"28.98 meter, medium dense to dense, dark gray, clayey silty gravelsly coarse sand",ALL,28.98
+"38 meter, firm, grayish white mottled yellowish brown, sandy silty with occasional angular fine gravels sized quartz fragments",ALL,38
+"38.5 meter, extremely weak, reddish brown mottled yellowish brown, completely decomposed coarse grained granite",CDG,38.5
+"88 meter, strong, pinkish gray, spottled black and white, slightly decomposed, coarse grained granite",GRA,88
+"88.35 meter, moderately strong, yellowish brown, moderately decomposed, coarse grained granite",GRA,88.35
+"88.5 meter, no recovery, assumed to be completely decomposed, coarse grained granite",CDG,88.5
+"89.44 meter, strong, pinkish gray spottled black and white, slightly decomposed, coarse grained granite",GRA,89.44
+"0 meter, bituminous concrete slab",FIL,0
+"0.15 meter, loose, grayish yellow, fine sand, with a little gravelss and cobbles ",FIL,0.15
+"6 meter, loose to medium dense, gray, grayish white, coarse sand, locally with a little gravelss and cobbles",FIL,6
+"7.6 meter, medium dense, grayish yellow and grayish white, residual soil, locally with a little cobble ",CDG,7.6
+"9 meter, extremely weak, brownish yellow, grayish yellow, completely decomposed granite",CDG,9
+"12 meter, very weak to weak, brownish yellow, highly decomposed medium to coarse grained granite",HDG,12
+"17 meter, strong, pink and grayish white mottled grayish green, moderately decomposed medium to coarse grained granite",GRA,17
+"0 meter, loose, grayish yellow, medium to coarse sand, with some clay",FIL,0
+"8.1 meter, very soft to soft, gray, mud, with a little fine sand and shell fragments ",MD,8.1
+"19.3 meter, firm to stiff, gray and grayish yellow, sandy clay, with some medium to coarse sand ",ALL,19.3
+"26 meter, firm, gray, clay ",ALL,26
+"29 meter, stiff, brownish yellow, clay ",ALL,29
+"32 meter, firm, grayish yellow, clay",ALL,32
+"36 meter, medium dense, grayish yellow, clayey medium to coarse sand",ALL,36
+"38.3 meter, dense to very dense, grayish yellow and grayish white, coarse to gravelsly sand ",ALL,38.3
+"66.6 meter, very weak to weak, grayish yellow mottled grayish white and grayish green, highly decomposed medium to coarse grained granite",HDG,66.6
+"71.95 meter, strong, pink and grayish white mottled grayish green, moderately decomposed medium to coarse grained granite",GRA,71.95
+"0 meter, loose to medium dense, grayish yellow, fine sand, locally with clay",FIL,0
+"8 meter, very soft, gray, mud, with a little shell fragmentss",MD,8
+"19 meter, stiff, grayish yellow, clay, with some medium to coarse sand",ALL,19
+"19.8 meter, loose, grayish yellow, clayey coarse sand",ALL,19.8
+"23.5 meter, soft, gray, clay",ALL,23.5
+"27 meter, firm, grayish yellow and grayish white, clay",ALL,27
+"33.1 meter, firm, gray, clay",ALL,33.1
+"38 meter, firm, grayish yellow and grayish white, sandy clay",ALL,38
+"38.6 meter, loose to medium dense, grayish yellow and grayish white, fine sand",ALL,38.6
+"41.5 meter, firm, grayish yellow and grayish white, clay",ALL,41.5
+"43.5 meter, firm, gray, clay, with some fine sand ",ALL,43.5
+"45 meter, medium dense to dense, brownish yellow, coarse sand, locally with cemented sand",ALL,45
+"54.1 meter, firm, grayish yellow, clay",ALL,54.1
+"55.5 meter, firm, gray, clay",ALL,55.5
+"57 meter, dense to very dense, grayish white, coarse sand ",ALL,57
+"66.1 meter, extremely weak, grayish yellow and grayish white, completely decomposed granite",CDG,66.1
+"70 meter, very weak to weak, grayish yellow and grayish white, highly decomposed medium to coarse grained granite",HDG,70
+"81.5 meter, strong, pink and grayish white mottled grayish green, moderately decomposed medium to coarse grained granite",GRA,81.5
+"0 meter, boulders, cobbles and concrete with sand ",FIL,0
+"4.5 meter, loose, grayish yellow, fine sand",FIL,4.5
+"7.8 meter, very soft, gray, mud, with some shell fragments",MD,7.8
+"17.5 meter, firm, brownish red, grayish yellow, clay, with a little cemented fine sand ",ALL,17.5
+"21.3 meter, soft, gray, clay, with a little fine sand",ALL,21.3
+"23.4 meter, firm to stiff, grayish white, grayish yellow, clay, with a little medium to coarse sand",ALL,23.4
+"33 meter, firm, gray, clay, with a little fine sand",ALL,33
+"39.8 meter, very dense, gray, coarse sand",ALL,39.8
+"40.7 meter, stiff, grayish white, clay",ALL,40.7
+"42.2 meter, stiff, gray, clay, with a little medium to coarse sand",ALL,42.2
+"45 meter, medium dense, gray, coarse sand, with a little grave",ALL,45
+"45.8 meter, extremely weak, grayish yellow, grayish white and brownish red, completely decomposed granite",CDG,45.8
+"47.6 meter, very weak to weak, grayish yellow and grayish white, highly decomposed medium to coarse grained granite",HDG,47.6
+"49.7 meter, strong, pink and grayish white mottled grayish green, moderately decomposed medium to coarse grained granite",GRA,49.7
+"0 meter, loose, grayish yellow, fine sand ",FIL,0
+"3.1 meter, boulders with sand ",FIL,3.1
+"7.1 meter, very soft, gray, mud, with a little shell fragmentss",MD,7.1
+"18.3 meter, firm, grayish yellow, clay",ALL,18.3
+"21.5 meter, soft to firm, gray, clay, with some medium to coarse sand",ALL,21.5
+"28 meter, stiff, grayish yellow, grayish white and brownish red, clay, with some coarse sand",ALL,28
+"38.8 meter, dense, grayish yellow, grayish white, coarse sand",ALL,38.8
+"43.5 meter, medium dense, gray, coarse sand, with some clay ",ALL,43.5
+"46 meter, medium dense, grayish yellow and grayish white, silty ",ALL,46
+"52.2 meter, extremely weak, grayish yellow and grayish white mottled pink, completely decomposed granite",CDG,52.2
+"54 meter, very weak to weak, grayish yellow and grayish white mottled pink, highly decomposed medium to coarse grained granite",HDG,54
+"64 meter, strong, grayish white and pink, moderately decomposed medium to coarse grained granite",GRA,64
+"0 meter, boulders with sand and clay ",FIL,0
+"17.9 meter, soft, gray, mud, with some shell fragments",MD,17.9
+"19.4 meter, firm, grayish yellow, clay ",ALL,19.4
+"19.7 meter, soft, gray, clay ",ALL,19.7
+"20.3 meter, medium dense, gray, grayish white, spottled grayish yellow, coarse sand, locally with a little clay ",ALL,20.3
+"22.5 meter, firm, grayish yellow, clay",ALL,22.5
+"23.4 meter, soft, gray, clay",ALL,23.4
+"24.9 meter, loose, grayish yellow, sandy silty ",ALL,24.9
+"27.5 meter, extremely weak, brownish yellow and grayish white, completely decomposed granite",CDG,27.5
+"30 meter, very weak to weak, grayish white and grayish yellow spotted pink and brownish yellow, highly decomposed medium to coarse grained granite",HDG,30
+"38.25 meter, strong to very strong, pink, grayish white mottled grayish green, moderately to slightly decomposed medium to coarse grained granite",GRA,38.25
+"0 meter, medium dense, grayish yellow, coarse sand, locally with some gravels",FIL,0
+"3 meter, loose to medium dense, grayish yellow, fine sand",FIL,3
+"8.5 meter, very soft, gray, mud, with shell fragments and coarse sand",MD,8.5
+"12.5 meter, loose, gray, coarse sand, with some mud",MD,12.5
+"13 meter, very soft, gray, mud, with shell fragments and coarse sand",MD,13
+"14.5 meter, loose, gray, coarse sand, with some mud",MD,14.5
+"17 meter, soft, gray, clay, with shell fragments and coarse sand",MD,17
+"18.2 meter, firm to stiff, grayish yellow, grayish white and pinkish red, clay, mottled with coarse sand",ALL,18.2
+"25.1 meter, firm, gray and grayish yellow, clay, mottled with medium sand",ALL,25.1
+"28.2 meter, medium dense, lightly gray, gray, medium sand, locally with coarse sand and clay",ALL,28.2
+"33.4 meter, firm, gray, clay, mottled with fine sand",ALL,33.4
+"35.2 meter, grayish yellow and grayish white, residual soil, the core recovered as medium dense silty, slakes readily in water",CDG,35.2
+"0 meter, grayish white, boulders",FIL,0
+"3.3 meter, very soft, gray, mud, with some fine sand and shell fragments",MD,3.3
+"11.5 meter, loose, gray and light gray, coarse sand, with some shell fragments and clay",ALL,11.5
+"16.2 meter, moderately strong, grayish white and pinkish red spotted with single black biotite crystals and occasional clusters of small biotite flakes, inequigranular, moderately decomposed, coarse grained granite",GRA,16.2
+"17.5 meter, weak, brownish yellow and grayish white, pinkish red, highly decomposed, coarse grained granite",HDG,17.5
+"19.9 meter, moderately strong, grayish white and celadon spotted with single black biotite crystals and occasional clusters of small biotite flakes, inequigranular, moderately decomposed, coarse grained granite",GRA,19.9
+"20.3 meter, weak, grayish yellow and grayish white, brownish red, highly decomposed, coarse grained granite",HDG,20.3
+"21.2 meter, moderately strong, grayish white and pinkish red spotted with single black biotite crystals and occasional clusters of small biotite flakes, inequigranular, moderately decomposed, coarse grained granite",GRA,21.2
+"0 meter, grayish white and grayish yellow, cobbles & boulders",FIL,0
+"18.4 meter, loose, gray, black, medium sand, mottled with some mud and shell fragments",MD,18.4
+"18.9 meter, firm, grayish yellow, clay, locally with some coarse sand",ALL,18.9
+"21.9 meter, medium dense, grayish yellow and gray, coarse sand, with some clay",ALL,21.9
+"22.9 meter, grayish yellow and grayish white, residual soil, the core recovered as medium dense silty, slakes readily in water",CDG,22.9
+"26.8 meter, very weak, grayish yellow and grayish white, brownish red, completely decomposed, coarse grained granite",CDG,26.8
+"29 meter, weak, grayish yellow and grayish white, brownish red, highly decomposed, coarse grained granite",HDG,29
+"35.25 meter, moderately strong, grayish yellow and pinkish red spotted with single black biotite crystals and occasional clusters of small biotite flakes, inequigranular, moderately decomposed, coarse grained granite",GRA,35.25
+"0 meter, loose, grayish yellow, fine to medium sand with some clay ",FIL,0
+"1.85 meter, medium dense, gray, fine sand with little mud ",FIL,1.85
+"7.8 meter, very soft, gray, mud with some shell fragments and little fine sand",MD,7.8
+"12.7 meter, stiff, grayish white, locally with brownish red, sandy clay with some medium to coarse sand and with little fine gravels ",ALL,12.7
+"19.1 meter, medium dense, grayish yellow, coarse sand with little fine gravels",ALL,19.1
+"29.55 meter, very weak to weak, grayish yellow spotted grayish white and pink, highly decomposed medium to coarse grained granite",HDG,29.55
+"46.8 meter, moderately strong to strong, pink spotted grayish green and grayish white, moderately to slightly decomposed medium to coarse grained granite ",GRA,46.8
+"0 meter, loose to medium dense, grayish yellow to dark gray, silty fine sand",FIL,0
+"11 meter, soft, dark gray, clay",MD,11
+"12.6 meter, medium dense, grayish yellow and grayish white, medium to coarse sand with a little fine to medium gravels ",ALL,12.6
+"22.6 meter, very stiff, pinkish red, grayish yellow, clay",ALL,22.6
+"33 meter, extremely weak, pinkish red and yellow, completely decomposed granite",CDG,33
+"40.3 meter, very weak to weak, pinkish red and yellow, highly decomposed medium to coarse grained granite",HDG,40.3
+"41.9 meter, strong, pink spotted grayish green and grayish white, slightly decomposed medium to coarse grained granite",GRA,41.9
+"0 meter, loose to medium dense, grayish yellow to gray, sand",FIL,0
+"6 meter, soft, gray to dark gray, clay",MD,6
+"11.8 meter, loose, gray, medium sand with some shell fragmentss and a little clay ",ALL,11.8
+"14.7 meter, loose to medium dense, grayish white, locally grayish yellow, gravelsly sand",ALL,14.7
+"25.5 meter, medium dense, grayish yellow, silty coarse sand with fine gravels ",ALL,25.5
+"34 meter, extremely weak, grayish yellow mottled brownish red, completely decomposed granite",CDG,34
+"45 meter, very weak to weak, brownish red and grayish yellow, highly decomposed medium to coarse grained granite",HDG,45
+"47.6 meter, moderately strong to strong, pink spotted grayish green and grayish white, moderately to slightly decomposed medium to coarse grained granite",GRA,47.6
+"0 meter, loose to medium dense, grayish brown to gray, silty fine sand",FIL,0
+"5.8 meter, very soft, gray, clay",MD,5.8
+"11.9 meter, loose to medium dense, grayish yellow and grayish white, clayey medium to coarse sand ",ALL,11.9
+"21.8 meter, medium dense, grayish yellow, silty coarse sand with fine gravels ",ALL,21.8
+"36.5 meter, extremely weak, brownish red and grayish yellow, completely decomposed granite",CDG,36.5
+"46.5 meter, very weak to weak, brownish red and grayish yellow, highly decomposed medium to coarse grained granite",HDG,46.5
+"48.8 meter, moderately strong to strong, pink spotted grayish green and grayish white, moderately to slightly decomposed medium to coarse grained granite",GRA,48.8
+"0 meter, loose, grayish yellow and gray, fine sand",FIL,0
+"8.2 meter, very soft, gray, mud, locally with a little fine sand and shell fragments",MD,8.2
+"13.5 meter, firm, grayish yellow, clay",ALL,13.5
+"18.6 meter, weak, grayish yellow, brownish red spotted with grayish white, highly decomposed, coarse grained granite",HDG,18.6
+"19.5 meter, strong, grayish white spotted with single black biotite crystals and occasional clusters of small biotite flakes, inequigranular, moderately decomposed, coarse grained granite",GRA,19.5
+"21.5 meter, weak, grayish yellow, brownish red spotted with grayish white, highly decomposed, coarse grained granite",HDG,21.5
+"22.9 meter, weak to strong, grayish white spotted with single black biotite crystals and occasional clusters of small biotite flakes, highly to moderately decomposed, coarse grained granite",HDG,22.9
+"25.8 meter, strong, grayish white spotted with single black biotite crystals and occasional clusters of small biotite flakes, inequigranular, moderately decomposed, coarse grained granite",GRA,25.8
+"0 meter, medium dense, dark gray, sand mixed some mud and shell ",FIL,0
+"2.5 meter, soft, dark gray, mud mixed some with sand and shell",MD,2.5
+"4 meter, very soft, dark gray, mud",MD,4
+"5.5 meter, medium dense, dark gray, very gravelsly coarse sand mixed some with shell",ALL,5.5
+"8.5 meter, medium dense, brownish yellow mottled red, clayey sand",ALL,8.5
+"17.5 meter, dense, grayish yellow, very gravelsly coarse sand",ALL,17.5
+"20.5 meter, dense, brownish yellow mottled red, clayey sand",ALL,20.5
+"22 meter, dense, brownish yellow mottled creamy white spotted black, sandy silty with traces of relict granite texture",CDG,22
+"29.5 meter, very dense, pinkish gray mottled creamy white spotted black, silty sand with traces of relict granite texture",CDG,29.5
+"34 meter, dense to very dense, brownish yellow mottled red and creamy white spotted black, sandy silty with traces of relict granite texture",CDG,34
+"50.1 meter, moderately strong to strong, pale pinkish yellow to pinkish green, moderately to slightly decomposed coarse grained granite ",GRA,50.1
+"0 meter, very soft, dark gray, mud",MD,0
+"5.5 meter, soft, gray, brown, clay",ALL,5.5
+"8.5 meter, soft, brown, yellow mottled red, clay",ALL,8.5
+"11.5 meter, medium dense to dense, yellow to grayish yellow, very gravelsly coarse sand",ALL,11.5
+"19 meter, medium dense to dense, brownish yellow mottled red creamy white spotted black, silty sand with traces of relict granite texture",CDG,19
+"23.5 meter, dense, brownish yellow mottled red creamy white spotted black, sandy silty with traces of relict granite texture",CDG,23.5
+"32.5 meter, dense to very dense, brownish yellow mottled creamy white spotted black, silty sand with traces of relict granite texture",CDG,32.5
+"45.68 meter, moderately strong, pale pinkish green, moderately decomposed coarse",GRA,45.68
+"48.7 meter, moderately strong to strong, pale pinkish green, moderately to slightly decomposed coarse grained granite",GRA,48.7
+"0 meter, medium dense, brown, sand mixed some cobble",FIL,0
+"2.5 meter, soft, dark gray, mud",MD,2.5
+"5.5 meter, medium dense, dark gray, very gravelsly coarse sand mixed some with mud and shell",MD,5.5
+"8.5 meter, medium dense, brownish yellow mottled red, clayey sand",ALL,8.5
+"11.5 meter, dense, brownish yellow, very gravelsly coarse sand mixed some with shell",ALL,11.5
+"16 meter, very dense, pinkish gray, medium to coarse sand",ALL,16
+"20.5 meter, medium dense to dense, pinkish gray, coarse sand",ALL,20.5
+"23.5 meter, dense to very dense, pinkish gray mottled creamy white spotted black, sandy silty with traces of relict granite texture",CDG,23.5
+"28 meter, very dense, pinkish gray mottled creamy white spotted black, silty sand with traces of relict granite texture",CDG,28
+"38.3 meter, weak to moderately strong, pale pinkish green highly to moderately decomposed coarse grained granite",GRA,38.3
+"40.2 meter, moderately strong to strong, pale pinkish gray to pinkish green, moderately to slightly decomposed coarse grained granite",GRA,40.2
+"0 meter, soft, dark gray to gray, mud",MD,0
+"7 meter, firm, brown, yellow mottled red, sandy clay",ALL,7
+"8.5 meter, firm, gray, yellow mottled red, clay",ALL,8.5
+"11.5 meter, medium dense, brownish yellow to yellow, very gravelsly coarse sand",ALL,11.5
+"20.5 meter, dense, grayish brown, medium to coarse sand",ALL,20.5
+"22 meter, dense, brownish yellow mottled red creamy white spotted black, sandy silty with traces of relict granite texture",CDG,22
+"25 meter, very dense, grayish yellow mottled creamy white spotted black, silty sand with traces of relict granite texture",CDG,25
+"33.8 meter, strong, pale pinkish gray, slightly decomposed coarse grained granite",GRA,33.8
+"0 meter, loose, dark brown, medium to fine sand",FIL,0
+"6 meter, soft, dark brown, sandy clay",MD,6
+"7.5 meter, loose, dark brown, fine to medium sand",FIL,7.5
+"9.45 meter, soft, dark brown, sandy clay",MD,9.45
+"12 meter, soft, dark gray, silty clay",MD,12
+"14 meter, soft, dark gray, silty clay with fine to medium sand",MD,14
+"14.95 meter, medium dense, light gray, silty medium to coarse sand with some crystals",ALL,14.95
+"16.5 meter, dense, orangish brown, silty medium to coarse sand with some crystal",ALL,16.5
+"22.5 meter, stiff, light yellowish gray, silty clay",ALL,22.5
+"24 meter, medium dense, light yellowish gray, silty medium to coarse sand with crystal",ALL,24
+"25.5 meter, very dense, orangish brown, silty medium to coarse sand with some gravels and crystal",ALL,25.5
+"27 meter, stiff, light yellowish gray, silty clay",ALL,27
+"28.5 meter, dense to very dense, orangish brown spottled with red, silty medium to coarse sand with some crystal",ALL,28.5
+"36 meter, very dense, yellowish brown spottled with black and white, silty medium to coarse sand with some crystal",CDG,36
+"46.57 meter, moderately weak to moderately strong yellowish brown, highly to moderately decomposed, medium grained granite",HDG,46.57
+"52.7 meter, very dense, yellowish brown spottled with black and white, silty medium io coarse sand with some crystals",CDG,52.7
+"52.94 meter, moderately weak to moderately strong yellowish brown, moderately to slightly decomposed, medium grained granite",GRA,52.94
+"54.27 meter, very dense, yellowish brown spottled with black and white, silty medium to coarse sand with some crystal",CDG,54.27
+"54.46 meter, moderately strong to moderately weak, grayish pink to yellowish brown, moderately decomposed, medium grained granite, with closely to medium-spaced",GRA,54.46
+"58.57 meter, moderately strong, yellowish gray to yellowish pink, slightly moderately decomposed, medium grained granite, with closely to medium spaced",GRA,58.57
+"0 meter, loose, dark brown, medium to fine sand",FIL,0
+"7 meter, stiff, dark gray, clay",MD,7
+"8.5 meter, loose, dark brown, medium to fine sand",FIL,8.5
+"11.5 meter, stiff, dark brown to dark gray, clay",MD,11.5
+"16 meter, dense, orangish brown to light gray, silty medium to coarse sand with gravels and crystal",ALL,16
+"19 meter, medium dense, brown, silty medium to coarse sand with some gravels and crystal",ALL,19
+"23.5 meter, dense to medium dense, brown to orangish brown, medium to coarse sand with some gravels and crystal",ALL,23.5
+"28 meter, dense, yellowish gray mottled with white silty medium to fine sand with some crystal and gravels",ALL,28
+"35.5 meter, very dense, yellowish gray mottled with white, silly medium to fine sand with some crystal and gravels",CDG,35.5
+"47 meter, very dense, gray streaked with orangish, silty medium to coarse sand with some gravels and crystal",CDG,47
+"51.87 meter, moderately strong to strong, yellowish gray, moderately to slightly decomposed. medium grained granite, with very closely to medium-spaced",GRA,51.87
+"57.24 meter, moderately strong to strong, yellowish pink to yellowish gray, moderately to slightly decomposed, medium grained granite, with closely to medium-spaced",GRA,57.24
+"0 meter, loose to medium dense, dark brown, medium to fine sand",FIL,0
+"5.26 meter, boulders",FIL,5.26
+"5.3 meter, loose, dark brown, silty medium to coarse sand with some crystal and gravels",FIL,5.3
+"8.5 meter, loose, reddish brown dappled with gray sandy clay to clayey sand with some crystal and gravels",FIL,8.5
+"11.5 meter, soft, dark gray, clay",MD,11.5
+"16 meter, medium dense, yellowish brown, silty medium to fine sand",ALL,16
+"19 meter, soft, dark gray, sandy clay",ALL,19
+"20.5 meter, dense, yellowish brown mottled with orange, silty medium to coarse sand with some crystal and gravels",ALL,20.5
+"26.5 meter, medium dense to very dense, orangish brown mottled with white and black, silty medium to fine sand with some crystal and gravels",CDG,26.5
+"38.16 meter, moderately strong to strong, yellowish brown to grayish pink, moderately to slightly decomposed, medium grained granite, with closely to widely-spaced",GRA,38.16
+"0 meter, medium dense, dark brown, medium to fine sand",FIL,0
+"7.5 meter, medium dense, dark brown, medium to coarse sand with some crystal and gravels",FIL,7.5
+"9 meter, medium dense, yellowish brown, silty medium to coarse sand with some crystal and gravels",ALL,9
+"14 meter, soft, dark gray, clay",MD,14
+"16.5 meter, medium dense, orangish brown, medium to coarse sand with some crystal and gravels",ALL,16.5
+"19.5 meter, soft, light gray streaked with brown, clay",ALL,19.5
+"20 meter, medium dense to dense, orangish brown to light gray, medium to coarse sand with some crystal and gravels",ALL,20
+"25.5 meter, Hard, yellowish gray, clay",ALL,25.5
+"27 meter, dense to very dense, orangish brown mottled with black and yellow, silty medium to fine sand with some crystal and gravels",CDG,27
+"31.72 meter, moderately weak to moderately strong yellowish brown, moderately to slightly decomposed, medium grained granite",GRA,31.72
+"35.1 meter, yellowish brown mottled with white and black, silty medium to coarse sand with some crystal and gravels",CDG,35.1
+"35.52 meter, moderately weak to moderately strong, yellowish brown, moderately decomposed medium grained granite",GRA,35.52
+"37.39 meter, yellowish brown mottled with black, silty medium to coarse sand with some crystal and gravels",CDG,37.39
+"0 meter, medium dense, dark brown, medium to fine sand with gravels",FIL,0
+"14.95 meter, soft, light gray, sandy clay with some crystal and gravels",MD,14.95
+"16 meter, medium dense, orangish brown, silty medium to fine sand",ALL,16
+"18 meter, dense, light gray to brown and light brown, medium to coarse sand with some crystal and gravels",ALL,18
+"33 meter, very dense, brown to dark brown mottled with gray and black, silty medium to fine sand with some crystal and gravels",CDG,33
+"39.57 meter, moderately strong to strong, yellowish brown to grayish pink, highly to slightly decomposed, medium grained granite, with extremely closely to medium-spaced",GRA,39.57
+"0 meter, medium dense, brown, medium to fine sand",FIL,0
+"4.03 meter, boulders",FIL,4.03
+"5.3 meter, loose, brown, medium to fine sand",FIL,5.3
+"8 meter, loose, light gray to brown, medium to coarse sand with some gravels and crystal",ALL,8
+"9 meter, medium dense, orangish brown spotted with gray, silty medium to fine sand with some gravels and crystal",ALL,9
+"13.5 meter, medium dense to very dense, brown dappled with gray, sandy clay with some crystal and gravels",CDG,13.5
+"15.15 meter, moderately strong to strong, yellowish brown, moderately decomposed, medium grained granite, with closely-spaced",GRA,15.15
+"16.76 meter, strong, grayish pink, slightly decomposed medium grained granite, with closely to medium-spaced",GRA,16.76
+"22.81 meter, moderately strong to strong, yellowish brown to grayish pink, moderately to slightly decomposed, medium grained granite, with medium to widely-spaced",GRA,22.81
+"31 meter, Stroggylis pink, slightly decomposed, medium grained granite",GRA,31
+"0 meter, loose to medium dense, dark brown, medium to fine sand",FIL,0
+"11.5 meter, loose, dark gray, sandy clay to clayey sand with some crystal, gravels and shell fragments",FIL,11.5
+"14.5 meter, medium dense, brown, medium to coarse sand with some crystal and gravels",ALL,14.5
+"16 meter, medium dense to dense, orangish brown spottled with dark gray and yellow, silty medium to fine sand with some crystal and gravels",CDG,16
+"18.15 meter, moderately strong to strong, yellowish brown to grayish pink, moderately to slightly decomposed, fine grained granite with closely to medium-spaced",GRA,18.15
+"0 meter, loose, grayish brown, clayey sand",FIL,0
+"2 meter, boulders",FIL,2
+"2.9 meter, loose, black, sand mixed with some rubbish",FIL,2.9
+"5.5 meter, very soft, dark gray, mud",MD,5.5
+"7 meter, firm to stiff, gray, yellow, clay",ALL,7
+"14.5 meter, soft, gray, clay",ALL,14.5
+"17.5 meter, firm to stiff, yellow mottled red, clay",ALL,17.5
+"22 meter, medium dense to dense, yellow mottled creamy while spotted black, sandy silt with traces of relict granite texture",CDG,22
+"34 meter, dense to very dense, pinkish yellow mottled creamy white spotted black, sandy silt with traces of relict granite texture",CDG,34
+"42.12 meter, strong to very strong, pinkish gray to gray, slightly decomposed coarse grained granite",GRA,42.12
+"0 meter, concrete fragments, coarse aggregate, stone and sand",FIL,0
+"0.45 meter, yellowish brown, silty sand",FIL,0.45
+"3 meter, soft to firm, dark gray, clay",MD,3
+"13.5 meter, firm to hard, yellowish brown mottled with white and black, fine sandy clay",ALL,13.5
+"31.5 meter, dense to very dense, reddish brown to yellowish brown dappled with white and black, silty fine sand",CDG,31.5
+"44.95 meter, very dense, reddish brown to yellowish brown dappled with white and black, silty fine sand",CDG,44.95
+"64.08 meter, moderately strong to strong, yellowish brown to pinkish gray, highly decomposed to moderately decomposed, medium grained granite",GRA,64.08
+"69.51 meter, strong, yellowish brown to pinkish gray, moderately decomposed, medium-grained granite",GRA,69.51
+"0 meter, concrete",FIL,0
+"0.2 meter, boulders",FIL,0.2
+"2.4 meter, soft to firm, dark gray, mud",MD,2.4
+"7.5 meter, firm, dark gray, clay",ALL,7.5
+"14.95 meter, stiff, brown/yellow, sandy clay",ALL,14.95
+"18.13 meter, moderately strong, pink, pinkish green, moderately decomposed medium to coarse grained granite",GRA,18.13
+"19.52 meter, moderately strong to strong, greenish pink moderately to slightly decomposed coarse grained granite",GRA,19.52
+"0 meter, brown, sand",FIL,0
+"1 meter, very soft to soft, dark gray, mud",MD,1
+"5.5 meter, medium dense to very dense, brownish yellow, medium to coarse sand",ALL,5.5
+"10 meter, very dense, brownish yellow mottled creamy white spotted black, silty sand with traces of relict granite texture",CDG,10
+"12.28 meter, strong to very strong, pale pinkish gray slightly decomposed coarse grained granite",GRA,12.28
+"0 meter, brown, sand",FIL,0
+"1 meter, soft, dark gray, mud",MD,1
+"4 meter, dense to very dense, brownish white, medium to coarse sand",ALL,4
+"10.8 meter, moderately strong to strong, grayish yellow, moderately to slightly decomposed medium grained granite",GRA,10.8
+"12.1 meter, strong to very strong, greenish pink, slightly decomposed medium to coarse grained granite",GRA,12.1
+"0 meter, concrete",FIL,0
+"0.18 meter, boulders and cobbles",FIL,0.18
+"2.5 meter, very soft to soft, dark gray, mud",MD,2.5
+"5.65 meter, loose, brown, medium to coarse sand",ALL,5.65
+"11.5 meter, medium dense, yellow to grayish yellow mottled creamy white spotted black, sandy silt with traces of relict granite texture",CDG,11.5
+"15.77 meter, moderately strong to strong, brownish yellow, greenish pink, moderately to slightly decomposed coarse grained granite",GRA,15.77
+"19.29 meter, strong to very strong, greenish pink, pinkish gray, slightly decomposed coarse grained granite",GRA,19.29
+"0 meter, concrete materials",FIL,0
+"2.5 meter, very soft, dark gray, mud.",MD,2.5
+"3.7 meter, firm, dark gray, clay",ALL,3.7
+"5.65 meter, firm, dark gray, sandy clay",ALL,5.65
+"7.5 meter, medium dense, brownish yellow mottled red medium to coarse sand",ALL,7.5
+"14.23 meter, strong, yellowish gray, pale pinkish gray, moderately to slightly decomposed coarse grained granite",GRA,14.23
+"0 meter, concrete",FIL,0
+"0.16 meter, boulders",FIL,0.16
+"3 meter, soft, dark gray, mud",MD,3
+"6.45 meter, loose, yellowish gray, fine to medium sand",ALL,6.45
+"8.92 meter, strong to very strong, pink, pale pinkish gray, slightly decomposed medium to coarse grained granite",GRA,8.92
+"0 meter, boulders",FIL,0
+"4 meter, soft, dark gray, mud",MD,4
+"5.95 meter, moderately strong, yellow, brownish yellow moderately decomposed coarse grained granite",GRA,5.95
+"7.89 meter, moderately strong to strong, pinkish yellow, greenish pink, moderately to slightly decomposed coarse grained granite",GRA,7.89
+"9.46 meter, strong to very strong, pinkish gray, slightly decomposed coarse grained granite",GRA,9.46
+"0 meter, boulders",FIL,0
+"3 meter, medium dense, dark gray, fine to medium sand",FIL,3
+"5.45 meter, soft, dark gray, mud",MD,5.45
+"7.35 meter, medium dense, brown, fine to medium sand",ALL,7.35
+"9.68 meter, strong to very strong, pale pinkish gray slightly decomposed coarse grained granite.",GRA,9.68
+"0 meter, concrete",FIL,0
+"0.19 meter, boulders",FIL,0.19
+"2.7 meter, loose, brown, sand",FIL,2.7
+"3.5 meter, very soft, dark gray, mud",MD,3.5
+"5 meter, medium dense, brown, fine to medium sand",ALL,5
+"6 meter, very dense, brownish yellow mottled creamy white spotted black, silty sand with traces of relict granite texture",CDG,6
+"11.26 meter, moderately strong, brownish yellow, pinkish yellow, moderately decomposed coarse grained granite",GRA,11.26
+"15.58 meter, moderately strong to strong, pinkish yellow, pinkish green, moderately to slightly decomposed coarse grained granite",GRA,15.58
+"18.58 meter, moderately strong, greenish pink, brownish yellow, moderately decomposed coarse granite grained",GRA,18.58
+"0 meter, concrete",FIL,0
+"0.16 meter, boulders",FIL,0.16
+"2.5 meter, very soft, dark gray, mud",MD,2.5
+"3.5 meter, loose, brown, medium sand",ALL,3.5
+"4.5 meter, very dense, brownish yellow mottled red and creamy white spotted black, silty sand with traces of relict granite texture",CDG,4.5
+"5.47 meter, moderately strong, brownish yellow, moderately decomposed coarse grained granite",GRA,5.47
+"7.07 meter, moderately strong to strong, brownish yellow grayish yellow, moderately to slightly decomposed coarse grained granite",GRA,7.07
+"0 meter, concrete",FIL,0
+"0.2 meter, boulders",FIL,0.2
+"3.5 meter, very soft to soft, dark gray, mud mixed with a little sand",MD,3.5
+"9 meter, medium dense to dense, brownish yellow, medium to coarse sand",ALL,9
+"13.5 meter, very dense, brownish yellow mottled creamy white spotted black, silty sand with traces of relict granite texture",CDG,13.5
+"14.7 meter, very dense, yellow to grayish yellow mottled creamy white spotted black, sandy silt with traces of relict granite texture",CDG,14.7
+"16.41 meter, strong to very strong, pale pinkish gray slightly decomposed coarse grained granite",GRA,16.41
+"19.25 meter, strong to moderately strong, pink, grayish pink, slightly to moderately decomposed medium to coarse grained granite",GRA,19.25
+"0 meter, concrete",FIL,0
+"0.5 meter, boulders",FIL,0.5
+"3 meter, very soft, dark gray, mud",MD,3
+"5.5 meter, soft to firm, dark gray, mud mixed with some sand",MD,5.5
+"8 meter, loose, dark brown, fine sand mixed some with mud",ALL,8
+"9.45 meter, medium dense, brownish yellow, medium sand",ALL,9.45
+"12 meter, very dense, brownish yellow mottled creamy white spotted black, silty sand with traces of relict granite texture",CDG,12
+"13.21 meter, strong, grayish pink, slightly to moderately decomposed coarse grained granite",GRA,13.21
+"0 meter, concrete",FIL,0
+"0.12 meter, boulders",FIL,0.12
+"2.9 meter, soft, dark gray, mud",MD,2.9
+"4.5 meter, medium dense, brownish red, medium to coarse sand",ALL,4.5
+"13.53 meter, strong, pale pinkish gray, slightly decomposed coarse grained granite",GRA,13.53
+"16.22 meter, moderately strong to strong, pink, moderately to slightly decomposed fine to medium grained granite",GRA,16.22
+"0 meter, loose, grayish yellow, fine sand",FIL,0
+"3 meter, very soft to firm, dark gray, mud",MD,3
+"5.5 meter, medium dense to dense, brownish red, medium to coarse sand",ALL,5.5
+"8.5 meter, very dense, brownish yellow mottled creamy white spotted black, silty sand with traces of relict granite texture",CDG,8.5
+"9.55 meter, strong to very strong, pale pinkish gray, slightly decomposed medium to coarse grained granite",GRA,9.55
+"0 meter, moist, firm, light reddish with medium coarse brown sandy clay",ALL,0
+"7.5 meter, moist, pinkish brown, with fine pink granite fragment. completely decomposed granite",CDG,7.5
+"12 meter, moderately strong, light orangish gray, spottled with black biotite and white quartz, moderately decomposed granite",GRA,12
+"13.5 meter, strong, light pinkish gray, mottled with black biotite and white quartz, slightly decomposed granite",GRA,13.5
+"0 meter, moist, medium firm, yellowish brown sandy clay",ALL,0
+"4.5 meter, moist, extremely soft, black mud.",MD,4.5
+"6 meter, moist, medium firm, dark brown sandy clay",ALL,6
+"9 meter, moist, pinkish brown, with fine pink granite fragment. completely decomposed granite",CDG,9
+"11 meter, moist, pinkish brown, with fine pink granite fragment. completely decomposed granite",CDG,11
+"12.8 meter, strong, light orangish gray to light pinkish gray, mottled with black biotite and white quartz, slightly decomposed granite",GRA,12.8
+"0 meter, moist, extremely soft, black mud",ALL,0
+"4.5 meter, moist, firm, brown sandy clay",ALL,4.5
+"9 meter, moist, pinkish brown, with fine pink granite fragment, completely decomposed granite",CDG,9
+"13.4 meter, moderately strong, light orangish gray, spottled with black biotite and white quartz, moderately decomposed granite",GRA,13.4
+"15.97 meter, strong, light orangish gray to light pinkish gray, mottled with black biotite and white quartz, slightly decomposed granite",GRA,15.97
+"0 meter, moist, medium firm, reddish brown sandy clay",ALL,0
+"3 meter, moist, extremely soft, black mud",MD,3
+"6 meter, moist, firm, light reddish with medium coarse brown sandy clay",ALL,6
+"10.5 meter, moist, pinkish brown, with fine pink granite fragment. completely decomposed granite",CDG,10.5
+"16.2 meter, moderately strong, light orangish gray, spottled with black biotite and white quartz, moderately decomposed granite",GRA,16.2
+"18.35 meter, strong, light orangish gray to light pinkish gray, mottled with black biotite and white quartz, slightly decomposed granite",GRA,18.35
+"0 meter, moist, medium dense, yellowish pinkish brown, medium coarse to fine sand with fine granite fragment. Clayey sand",ALL,0
+"6.34 meter, strong, orangish gray to pinkish gray, mottled with black biotite and white quartz, slightly decomposed granite",GRA,6.34
+"0 meter, wet, very loose, light gray to gray and light yellow clay with shell fragmentss",MD,0
+"6 meter, wet, medium dense, light gray fined sand with shell fragmentss",MD,6
+"12 meter, wet, soft light gray to gray and light yellow clay",MD,12
+"13.5 meter, wet, soft yellowish gray clay",ALL,13.5
+"36 meter, wet, firm light brownish yellow clay",CDG,36
+"43.5 meter, boulders",CDG,43.5
+"45 meter, wet, hard light brownish yellow clay fine sand and white and transparent quartz",CDG,45
+"73.4 meter, moderately strong to strong, light gray spotted, black and pink with black biotite, white and transparent quartz, moderately to slightly decomposed granite",GRA,73.4
+"0 meter, wet, soft black mud",MD,0
+"6 meter, wet, medium dense, light brown to brown fine sand",MD,6
+"7.5 meter, wet, grayish brown, very soft, marine mud",MD,7.5
+"19.5 meter, wet, medium dense to dense, grayish brown sand with a little shell fragmentss",ALL,19.5
+"25.5 meter, wet, medium dense to dense light yellow to yellow sand with a little shell fragmentss and transparent quartz",ALL,25.5
+"27 meter, wet medium dense to dense light brown to brown sand with a little shell fragmentss",ALL,27
+"44.5 meter, wet medium dense to dense brown to brown with black biotite, white and transparent quartz completely decompose granite",CDG,44.5
+"52 meter, wet medium dense to dense yellowish brown with black biotite white and complete transparent quartz completely decomposed granite",CDG,52
+"65.5 meter, wet medium dense to dense yellowish brown with black biotite white and transparent quartz completely decomposed granite",CDG,65.5
+"81.03 meter, moderately strong to strong, light gray spotted with black and pink with black biotite, white and transparent quartz, moderately to slightly decomposed granite",GRA,81.03
+"0 meter, wet, very soft light gray to clay gray",MD,0
+"7.5 meter, wet, soft yellowish gray clay",MD,7.5
+"10.5 meter, wet, soft light gray clay with shell fragmentss",MD,10.5
+"13.5 meter, wet, soft yellowish brown clay with shell fragmentss",MD,13.5
+"16.5 meter, wet, firm reddish brown clay with a little shell fragmentss and white and transparent quartz",ALL,16.5
+"27 meter, wet, firm light brown to brown with a little shell fragmentss and white and transparent quartz",ALL,27
+"36 meter, wet, stiff light yellowish brown with a little shell fragmentss and white and transparent quartz, clay with black biotite completely decomposed granite",CDG,36
+"70.8 meter, moderately strong to strong light gray spotted black and pink mottled yellowish brown with black biotite white and transparent quartz moderately to slightly decomposed granite",GRA,70.8
+"0 meter, wet, very soft, black clay with shell fragmentss and white and transparent quartz",MD,0
+"9 meter, wet, soft, light yellow to yellow clay",MD,9
+"15 meter, wet, soft, reddish brown clay",ALL,15
+"30 meter, wet, medium dense to dense, yellowish brown clay fine sand with shell fragmentss and white and transparent quartz",ALL,30
+"46 meter, wet, medium dense to dense light yellow to yellow sand with white and transparent quartz, completely decomposed granite",CDG,46
+"63.8 meter, moderately strong to strong, light gray spotted, black and pink, mottled yellowish brown with black biotite, white and transparent quartz, moderately to slightly decomposed granite",GRA,63.8
+"0 meter, wet, medium dense light gray to gray clay with shell fragmentss",MD,0
+"9 meter, wet, soft light yellow clay with shell fragmentss",MD,9
+"22.5 meter, wet, medium dense to dense, brownish red sand with a little shell fragmentss and white and transparent quartz",ALL,22.5
+"34.5 meter, wet, medium dense to dense grayish yellow sand with a little shell fragmentss and white and transparent quartz",ALL,34.5
+"40.5 meter, wet, medium dense to dense yellow sand",ALL,40.5
+"43.5 meter, boulders",CDG,43.5
+"44.5 meter, wet, medium dense to dense grayish yellow sand with a little shell fragmentss and white and transparent quartz",ALL,44.5
+"45 meter, boulders",CDG,45
+"45.3 meter, wet, medium dense to dense grayish yellow sand with a little shell fragmentss and white and transparent quartz",ALL,45.3
+"53 meter, boulders",CDG,53
+"54.5 meter, wet, medium dense to dense, light yellow to yellow clay fine sand with black biotite white and transparent quartz",ALL,54.5
+"60.5 meter, wet, medium dense to dense, brownish black clay fine sand completely decomposed granite",CDG,60.5
+"76.6 meter, moderately strong to strong light gray spotted, black and pink mottled yellowish brown with black biotite white and transparent quartz moderately to slightly decomposed granite",GRA,76.6
+"0 meter, wet, very loose light gray to gray fine sand with shell fragmentss",MD,0
+"10 meter, wet, loose light brown to brown fine sand with shell fragmentss and white and transparent quartz",MD,10
+"13.5 meter, wet, soft light gray to gray clay",MD,13.5
+"18 meter, wet, medium dense reddish brown fine sand with shell fragmentss and white and transparent quartz",ALL,18
+"36 meter, wet, stiff reddish brown clay with transparent quartz",CDG,36
+"48 meter, wet, stiff yellow clay with black biotite white and transparent quartz completely decomposed granite",CDG,48
+"72.7 meter, moderately strong to strong light gray spotted black and pink mottled yellowish brown with black biotite white and transparent quartz moderately to slightly decomposed granite",GRA,72.7
+"0 meter, wet, very loose, black fine sand with shell fragmentss",FIL,0
+"4.5 meter, wet, very soft, light gray to gray clay",MD,4.5
+"6 meter, wet, medium dense, light yellow to yellow clay fine sand with shell fragmentss.",MD,6
+"18 meter, wet, medium dense to dense, light brown to brown clay fine sand with black biotite, white and transparent quartz",ALL,18
+"70.5 meter, wet, medium dense to dense, light yellow to yellow clay fine sand with black biotite, white and transparent quartz, completely decomposed granite",CDG,70.5
+"73 meter, moderately strong to strong, light gray spotted, black and pink, mottled, yellowish brown with black biotite, white and transparent quartz moderately to slightly decomposed granite",GRA,73
+"0 meter, loose to medium, grayish yellow fine sand",FIL,0
+"6.5 meter, Uncompacted grayish white cobbles, size between 50mm and 120mm",FIL,6.5
+"9 meter, loose, gray coarse sand ,occasionally with  very soft clay",FIL,9
+"16.6 meter, stiff to very stiff, grayish yellow sandy clay",CDG,16.6
+"20.7 meter, strong, grayish yellow, pinkish red and grayish white, moderately decomposed granite ",GRA,20.7
+"32.9 meter, strong to very strong, grayish yellow, pinkish red and grayish white, moderately decomposed granite",GRA,32.9
+"0 meter, loose, occasionally coarse dense, brown medium sand",FIL,0
+"9.4 meter, loose, gray coarse sand with shells and very soft clay",ALL,9.4
+"16.5 meter, stiff to very stiff, grayish yellow sandy clay",CDG,16.5
+"25 meter, weak, grayish yellow, pinkish red and grayish white, completely decomposed granite",CDG,25
+"35.8 meter, strong to very strong, grayish yellow, pinkish red and grayish white, moderately decomposed  granite with highly decomposed granite",GRA,35.8
+"0 meter, loose, gray to yellowish fine sand",FIL,0
+"3.5 meter, very soft, dark gray clay, occasionally with humus and sand",MD,3.5
+"4.6 meter, strong, grayish yellow, pinkish red and grayish white, moderately decomposed granite occasional with highly decomposed granite",GRA,4.6
+"5.6 meter, stiff to very stiff, grayish yellow sandy clay",CDG,5.6
+"9.93 meter, strong, grayish yellow, pinkish red and grayish white, moderately decomposed granite",GRA,9.93
+"24.62 meter, strong to very strong, grayish yellow, pinkish red and grayish white, moderately decomposed granite",GRA,24.62
+"0 meter, very soft, dark gray clay, occasionally with organic materials and shell fragments",FIL,0
+"1 meter, loose, gray fine sand, with shell fragments, occasionally with very soft clay",FIL,1
+"8 meter, loose, gray to yellowish gray coarse clayey  sand",ALL,8
+"12.5 meter, firm to stiff, gray to yellowish gray clay occasionally with sand",ALL,12.5
+"17.5 meter, firm , gray to yellowish gray clay occasionally with sand",ALL,17.5
+"20 meter, loose, gray to yellowish gray coarse clayey  sand",ALL,20
+"23.8 meter, firm, gray clay occasionally with fine sand",ALL,23.8
+"27 meter, very dense , gray to yellowish gray coarse  sand occasionally with cobbles",CDG,27
+"28 meter, stiff to very stiff, grayish yellow residual soil",CDG,28
+"30 meter, weak, grayish yellow pinkish red and grayish white, highly decomposed granite",HDG,30
+"0 meter, very soft, dark gray clay, occasionally with organic materials and shell fragments",MD,0
+"8 meter, firm , gray to yellowish sandy clay occasionally with gravels",MD,8
+"10 meter, soft, dark gray clay, occasionally with organic materials and shell fragments",ALL,10
+"11 meter, firm to stiff , gray to yellowish gray clay occasionally with fine sand",ALL,11
+"18 meter, firm, gray to yellowish gray clay occasionally with fine sand and organic materials",ALL,18
+"20 meter, medium dense gray to yellowish gray coarse clayey  sand",ALL,20
+"20.8 meter, stiff, gray to yellowish clay occasionally with fine sand",ALL,20.8
+"21.5 meter, medium dense , gray to yellowish gray coarse  sand occasionally laminated with clay",ALL,21.5
+"26 meter, firm, gray to yellowish sandy clay",CDG,26
+"27 meter, weak, grayish yellow pinkish red and grayish white, highly decomposed granite",HDG,27
+"0 meter, medium dense, gray to yellowish gray coarse clayey  sand, with construction waste",FIL,0
+"3 meter, stiff to very stiff, grayish yellow residual soil",CDG,3
+"4 meter, extremely weak, grayish yellow pinkish red and grayish white, completely decomposed granite",CDG,4
+"5.22 meter, moderately strong, grayish yellow, yellowish pink, moderately decomposed medium to coarse grained granite",GRA,5.22
+"8.9 meter, moderately strong to strong, grayish yellow, yellowish pink, moderately decomposed medium to coarse grained granite",GRA,8.9
+"0 meter, medium dense, gray to yellowish gray coarse clayey sand, with cobbles",FIL,0
+"3.8 meter, extremely weak, grayish yellow pinkish red and grayish white, highly decomposed granite",HDG,3.8
+"9.24 meter, moderately strong, grayish yellow, yellowish pink, moderately decomposed medium to coarse grained granite",GRA,9.24
+"11.93 meter, extremely weak, grayish yellow pinkish red and grayish white, highly decomposed granite",HDG,11.93
+"12.23 meter, moderately strong to strong, grayish yellow, yellowish pink, moderately decomposed medium to coarse grained granite",GRA,12.23
+"0 meter, medium dense, gray to yellowish gray coarse clayey sand, with cobbles",FIL,0
+"1.5 meter, extremely weak, grayish yellow pinkish red and grayish white, highly decomposed granite",HDG,1.5
+"2.69 meter, moderately strong, grayish yellow, yellowish pink, moderately decomposed medium to coarse grained granite",GRA,2.69
+"3.59 meter, extremely weak, grayish yellow pinkish red and grayish white, highly decomposed granite",HDG,3.59
+"13.6 meter, moderately strong, grayish yellow, yellowish pink, moderately decomposed medium to coarse grained granite",GRA,13.6
+"18.9 meter, extremely weak, grayish yellow pinkish red and grayish white, highly decomposed granite",HDG,18.9
+"19.82 meter, weak, grayish yellow pinkish red and grayish white, highly decomposed granite occasional with moderately decomposed granite",HDG,19.82
+"37.48 meter, moderately strong, grayish yellow, yellowish pink, moderately decomposed medium to coarse grained granite",GRA,37.48
+"39.98 meter, weak, grayish yellow pinkish red and grayish white, highly decomposed granite occasional with moderately decomposed granite",HDG,39.98
+"41.45 meter, moderately strong, grayish yellow, yellowish pink, moderately decomposed medium to coarse grained granite",GRA,41.45
+"0 meter, stiff to very stiff, grayish yellow residual soil",CDG,0
+"2 meter, extremely weak, grayish yellow pinkish red and grayish white, completely  decomposed granite",CDG,2
+"5 meter, extremely weak, grayish yellow pinkish red and grayish white, highly decomposed granite",HDG,5
+"9.75 meter, moderately strong, grayish yellow, yellowish pink, moderately decomposed medium to coarse grained granite occasional with highly decomposed granite",GRA,9.75
+"14.91 meter, moderately strong, grayish yellow, yellowish pink, moderately decomposed medium to coarse grained granite",GRA,14.91
+"0 meter, very soft, brownish gray, clay, with occasional shell fragments.",MD,0
+"9.5 meter, firm, yellowish brown, silty clay",ALL,9.5
+"10.5 meter, firm, gray, clay, with occasional decayed wood fragments.",ALL,10.5
+"13.5 meter, firm, brownish gray, sandy clayey silty.",ALL,13.5
+"14.5 meter, medium dense, brownish gray, silty clayey gravelsly coarse sand.",ALL,14.5
+"16.5 meter, firm, reddish brown mottled yellowish brown, silty clay",ALL,16.5
+"20.5 meter, firm, grayish yellow, sandy silty clay sand is medium.",ALL,20.5
+"22.5 meter, stiff, reddish brown,  slightly sandy silty clay",ALL,22.5
+"25.5 meter, dense, grayish white, silty coarse sand.",ALL,25.5
+"26.5 meter, very stiff, grayish white, mottled light yellowish brown, sandy silty clay",ALL,26.5
+"29 meter, medium dense, grayish white, silty clayey gravelsly coarse sand.",ALL,29
+"36.5 meter, stiff, grayish white, silty clay",ALL,36.5
+"37.5 meter, medium dense, grayish white, slightly gravelsly silty coarse sand.",ALL,37.5
+"43.7 meter, stiff, grayish white, sandy silty clay",ALL,43.7
+"46.5 meter, very stiff, yellowish brown mottled grayish white, silty clay with some angular gravels sized quartz fragments",CDG,46.5
+"48.5 meter, extremely weak, yellowish brown mottled grayish white, completely decomposed coarse grained granite",CDG,48.5
+"84.5 meter, strong, pinkish gray mottled grayish white, slightly decomposed, coarse grained granite.",GRA,84.5
+"0 meter, very soft, gray to brownish gray, clay, with occasional shell fragments.",MD,0
+"10.5 meter, firm, yellowish brown, slightly sandy silty clay",ALL,10.5
+"12.5 meter, firm, gray, slightly silty sandy clay sand is coarse, with occasional decayed wood fragments.",ALL,12.5
+"16.5 meter, loose, gray, silty coarse sand.",ALL,16.5
+"19.6 meter, firm, grayish yellow and brownish red, sandy silty clay",ALL,19.6
+"20.5 meter, firm, gray, slightly silty sandy clay, with occasional decayed wood fragments. sand is medium to coarse.",ALL,20.5
+"24.5 meter, firm, yellowish brown mottled grayish white, sandy silty clay",ALL,24.5
+"27.5 meter, firm, gray, silty clay",ALL,27.5
+"30.5 meter, medium dense, gray, silty coarse sand.",ALL,30.5
+"34.5 meter, dense to very dense, grayish white, gravelsly coarse sand.",ALL,34.5
+"41.8 meter, stiff, grayish yellow and brownish red, sandy silty clay",ALL,41.8
+"45.8 meter, medium dense, yellowish brown mottled grayish white, clayey silty coarse sand.",ALL,45.8
+"48.3 meter, dense to very dense, grayish yellow and grayish white, gravelsly coarse sand.",ALL,48.3
+"55.9 meter, extremely weak, yellowish brown spottled grayish white, completely decomposed coarse grained granite",CDG,55.9
+"82.9 meter, strong, pinkish gray mottled black and white, slightly decomposed, coarse grained granite.",GRA,82.9
+"0 meter, loose, grayish yellow, fine sand. ",FIL,0
+"11.4 meter, very soft, gray, mud, locally with a little shell fragments.",MD,11.4
+"17.5 meter, firm, grayish yellow, clay, with a little fine to medium sand.",ALL,17.5
+"20.4 meter, medium dense to dense, grayish yellow, coarse sand. ",ALL,20.4
+"26.1 meter, firm, grayish yellow, clay, locally with a little fine to medium sand. ",ALL,26.1
+"27.3 meter, dense, grayish yellow, coarse sand, locally with coarse gravelss. ",ALL,27.3
+"29.2 meter, medium dense, grayish yellow , grayish white and brown, silty. ",CDG,29.2
+"30.9 meter, extremely weak, grayish white, grayish yellow mottled brown, completely decomposed granite.",CDG,30.9
+"36.2 meter, very weak to weak, brown, grayish yellow, highly decomposed medium to coarse grained granite.",HDG,36.2
+"37.2 meter, strong, brownish yellow and grayish green mottled grayish white, moderately  decomposed medium to coarse grained granite.",GRA,37.2
+"0 meter, medium dense, grayish yellow, fine sand. ",FIL,0
+"8.8 meter, soft to firm, gray, mud, with a little fine sand and shell fragments.",MD,8.8
+"23.2 meter, soft to firm, grayish yellow, clay, with some medium to coarse sand.",ALL,23.2
+"26.6 meter, firm, gray, clay",ALL,26.6
+"29.8 meter, firm to stiff, light gray, clay, locally with some medium to coarse sand.",ALL,29.8
+"36.5 meter, dense, grayish white and grayish yellow, fine sand. ",ALL,36.5
+"40.8 meter, firm, gray, clay",ALL,40.8
+"44 meter, dense, grayish white, coarse sand, locally with a little gravelsly sand.",ALL,44
+"49.8 meter, firm, light grayish yellow mottled grayish white, clay, with some fine sand.",ALL,49.8
+"51 meter, very dense, grayish yellow, coarse to gravelsly sand. ",ALL,51
+"62 meter, firm, grayish yellow spotted grayish white, silty, with some fine sand.",ALL,62
+"63.3 meter, very dense, grayish yellow, fine sand, with some medium to coarse sand.",ALL,63.3
+"67.6 meter, very weak to weak, grayish yellow mottled grayish white and grayish green, highly decomposed medium to coarse grained granite.",HDG,67.6
+"83.3 meter, strong, grayish green and grayish green spotted pink, moderately decomposed medium to coarse grained granite.",GRA,83.3
+"0 meter, loose, grayish yellow, medium sand, locally with gravelss and cobbles.",FIL,0
+"3 meter, boulders with sand. ",FIL,3
+"13.1 meter, soft, gray, mud, with a little shell fragments.",MD,13.1
+"18.7 meter, firm, grayish yellow, brownish red, clay",ALL,18.7
+"20.1 meter, medium dense, grayish yellow, coarse sand.",ALL,20.1
+"21.3 meter, firm to stiff, grayish yellow and brownish red, sandy clay, with some medium to coarse sand. ",ALL,21.3
+"23.3 meter, stiff, light gray, grayish yellow, clay, with a little coarse sand. ",ALL,23.3
+"32.5 meter, medium dense, grayish yellow and brownish red, clayey sand. ",ALL,32.5
+"34.6 meter, loose to medium dense, grayish yellow and grayish white, silty. ",CDG,34.6
+"39.5 meter, extremely weak, grayish yellow and grayish white mottled pink, completely decomposed granite.",CDG,39.5
+"44 meter, very weak to weak, grayish yellow and grayish white, highly decomposed medium to coarse grained granite.",HDG,44
+"50.2 meter, rock head",GRA,50.2
+"0 meter, loose to medium dense, grayish yellow, black, sand, locally with some gravels .",FIL,0
+"3.5 meter, grayish white and grayish yellow",FIL,3.5
+"7 meter, medium dense, grayish yellow, black sand, locally with some gravels",FIL,7
+"7.5 meter, grayish white and grayish yellow",FIL,7.5
+"13.5 meter, very soft, gray ,mud, with shell fragments and fine sand.",MD,13.5
+"19.5 meter, firm, grayish yellow, grayish white and gray, clay, mottled with coarse sand.",ALL,19.5
+"31.5 meter, grayish yellow and grayish white, residual soil, the core recovered as medium dense silty ,slakes readily in water",CDG,31.5
+"32.85 meter, very weak, grayish yellow and grayish white, brownish red, completely decomposed, coarse grained granite",CDG,32.85
+"34.5 meter, weak, grayish yellow and grayish white, brownish red, highly decomposed, coarse grained granite.",HDG,34.5
+"42.3 meter, moderately strong to strong, grayish yellow and pinkish red spotted with single black biotite crystals and occasional clusters of small biotite flakes, inequigranular, moderately decomposed, coarse grained granite.",GRA,42.3
+"0 meter, loose, occasionally coarse dense, brown medium backfill sand with boulders",FIL,0
+"7.6 meter, very soft, dark gray clay, occasionally with organic materials and shell fragments",MD,7.6
+"23 meter, firm, gray to yellowish clay locally laminated with sand",ALL,23
+"25 meter, soft, dark gray clay",ALL,25
+"29 meter, loose, gray coarse sand, with shell fragments",ALL,29
+"31 meter, firm, gray clay locally laminated with sand",ALL,31
+"33 meter, medium dense, gray to yellowish coarse sand",ALL,33
+"39 meter, firm, gray clay",ALL,39
+"41 meter, weak, grayish yellow, pinkish red and grayish white, completely decomposed granite",CDG,41
+"43 meter, weak, grayish yellow, pinkish red and grayish white, highly decomposed granite",HDG,43
+"44.31 meter, strong to very strong, grayish yellow pinkish red and grayish white, moderately decomposed granite",GRA,44.31
